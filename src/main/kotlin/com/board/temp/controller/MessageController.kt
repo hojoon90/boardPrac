@@ -1,6 +1,6 @@
-package com.board.sample.controller
+package com.board.temp.controller
 
-import com.board.sample.domain.Message
+import com.board.temp.domain.Message
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
